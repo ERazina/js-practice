@@ -1,0 +1,1 @@
+"use strict";var planet = "Земля";var user = "Петя";alert(planet);alert(user);
