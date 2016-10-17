@@ -1,0 +1,1 @@
+name = prompt("Каково официальное название JavaScript?");if(name == "EcsmaScript"){  alert("Верно!");}else(alert("Не знаете? EcsmaScript!"));
