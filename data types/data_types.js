@@ -1,0 +1,1 @@
+//Перемножить 2 чиcла друг на другаvar number1 = +prompt("Введите первое число"); //Унарный плюс приводит строку к числуvar number2 = +prompt("Введите второе число");alert(number1 * number2);//Заказ товаров - округление//alert( 0.1 + 0.2 + '$' );var price1 = 0.1;var price2 = 0.2;var result = alert(+(  price1 + price2 ).toFixed(2));
