@@ -1,0 +1,1 @@
+//Напишите функцию getDecimal(num), которая возвращает десятичную часть числа:function getDecimal(num) {return num - math.round(num);}//генерация случайного числа до 10function random (){    var max = 10;    var random = math.round(math.random());}
